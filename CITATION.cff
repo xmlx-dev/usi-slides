@@ -7,7 +7,7 @@ authors:
 title: "eXplainable Machine Learning -- USI Course"
 version: v1
 date-released: 2023-02-16
-url: "https://usi.xmlx.io/"
+url: "https://usi.xmlx.dev/"
 doi: 10.5281/zenodo.7646970
 preferred-citation:
   type: slides
@@ -16,6 +16,6 @@ preferred-citation:
   - family-names: "Sokol"
     given-names: "Kacper"
     orcid: "https://orcid.org/0000-0002-9869-5896"
-  url: "https://usi.xmlx.io/"
+  url: "https://usi.xmlx.dev/"
   doi: 10.5281/zenodo.7646970
   year: 2023

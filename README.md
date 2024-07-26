@@ -1,9 +1,9 @@
-[![View Slides][slides-badge]](https://usi.xmlx.io)
-[![GitHub Release](https://img.shields.io/github/v/release/xmlx-io/usi-slides?display_name=tag&logo=github)](https://github.com/xmlx-io/usi-slides/releases/latest)  
+[![View Slides][slides-badge]](https://usi.xmlx.dev)
+[![GitHub Release](https://img.shields.io/github/v/release/xmlx-dev/usi-slides?display_name=tag&logo=github)](https://github.com/xmlx-dev/usi-slides/releases/latest)  
 [![Slides Licence](https://img.shields.io/badge/slides%20licence-CC%20BY--NC--SA%204.0-lightgrey)](LICENCE)
 [![Code Licence](https://img.shields.io/badge/code%20licence-MIT-lightgrey)](LICENCE-code)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7646970.svg)](https://doi.org/10.5281/zenodo.7646970)
-[![Cite BibTeX](https://img.shields.io/badge/cite-bibtex-yellow.svg)](https://usi.xmlx.io/slides/index.html#citing-the-slides)
+[![Cite BibTeX](https://img.shields.io/badge/cite-bibtex-yellow.svg)](https://usi.xmlx.dev/slides/index.html#citing-the-slides)
 
 #  Machine Learning Explainability
 ## Exploring Automated Decision-Making Through Transparent Modelling and Peeking Inside Black Boxes
@@ -416,7 +416,7 @@ If you happen to use these slides, please cite them as follows.
 @misc{sokol2023explainable,
   author={Sokol, Kacper},
   title={{eXplainable} {Machine} {Learning} -- {USI} {Course}},
-  howpublished={\url{https://usi.xmlx.io/}},
+  howpublished={\url{https://usi.xmlx.dev/}},
   doi={10.5281/zenodo.7646970},
   year={2023}
 }

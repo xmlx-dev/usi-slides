@@ -44,7 +44,7 @@ jobs:
     - name: Install Quarto and Python dependencies 💾
       run: |
         pip install -r requirements.txt
-        # pip install git+https://xmlx-io-concierge:${{ secrets.CONCIERGE_ACCESS_TOKEN }}@github.com/xmlx-io/xml-book-code.git@turing-release
+        # pip install git+https://xmlx-concierge:${{ secrets.CONCIERGE_ACCESS_TOKEN }}@github.com/xmlx-dev/xml-book-code.git@turing-release
         quarto install extension --no-prompt quarto-ext/fontawesome
     - name: Get PyTorch model
       run: |
@@ -61,7 +61,7 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
         GITHUB_TOKEN: ${{ secrets.CONCIERGE_ACCESS_TOKEN }}
-        REPOSITORY_NAME: xmlx-io/usi-slides-page
+        REPOSITORY_NAME: xmlx-dev/usi-slides-page
         BRANCH: webpage
         FOLDER: _build
         CLEAN: true
@@ -72,7 +72,7 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
         GITHUB_TOKEN: ${{ secrets.CONCIERGE_ACCESS_TOKEN }}
-        REPOSITORY_NAME: xmlx-io/usi-slides-mirror
+        REPOSITORY_NAME: xmlx-dev/usi-slides-mirror
         BRANCH: webpage
         FOLDER: _build
         CLEAN: true

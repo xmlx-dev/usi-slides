@@ -1,9 +1,9 @@
 #! /usr/bin/env python3
 #title       :Demo Builder
 #description :Build, execute and store Jupyter Notebook RISE slides
-#author      :Kacper Sokol <kacper@xmlx.io>
+#author      :Kacper Sokol <kacper@xmlx.dev>
 #license     :new BSD
-#source      :https://github.com/xmlx-io/xml-slides
+#source      :https://github.com/xmlx-dev/xml-slides
 #==============================================================================#
 
 import glob

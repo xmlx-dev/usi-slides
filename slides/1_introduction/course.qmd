@@ -172,21 +172,21 @@ subtitle: >
 
 - **Online Slides**
 
-    * [usi.xmlx.io][slides-xmlx]
-    * [xmlx-io.github.io/usi-slides-mirror][slides-github]
+    * [usi.xmlx.dev][slides-xmlx]
+    * [xmlx-dev.github.io/usi-slides-mirror][slides-github]
 
 - **GitHub Repository**
 
-    * [github.com/xmlx-io/usi-slides][github-quarto] (*raw slides source*)
-    * [github.com/xmlx-io/usi-slides-page][github-html] (*html slides source*)
-    * [github.com/xmlx-io/usi-slides-mirror][github-html-mirror] (*html slides source mirror*)
+    * [github.com/xmlx-dev/usi-slides][github-quarto] (*raw slides source*)
+    * [github.com/xmlx-dev/usi-slides-page][github-html] (*html slides source*)
+    * [github.com/xmlx-dev/usi-slides-mirror][github-html-mirror] (*html slides source mirror*)
 
-[slides-xmlx]: https://usi.xmlx.io/
-[slides-github]: https://xmlx-io.github.io/usi-slides-mirror
+[slides-xmlx]: https://usi.xmlx.dev/
+[slides-github]: https://xmlx-dev.github.io/usi-slides-mirror
 
-[github-quarto]: https://github.com/xmlx-io/usi-slides
-[github-html]: https://github.com/xmlx-io/usi-slides-page
-[github-html-mirror]: https://github.com/xmlx-io/usi-slides-mirror
+[github-quarto]: https://github.com/xmlx-dev/usi-slides
+[github-html]: https://github.com/xmlx-dev/usi-slides-page
+[github-html-mirror]: https://github.com/xmlx-dev/usi-slides-mirror
 
 ## Resources {{< meta subs.ctd >}}
 
